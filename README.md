@@ -1,2 +1,2 @@
-# To-do-List
-Projeto de To do List criado utilizando JavaScript, HTML e CSS
+# Lista-de-Tarefas
+Projeto de Lista de Tarefas criado utilizando JavaScript, HTML e CSS
