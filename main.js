@@ -7,7 +7,7 @@ let minhaListaDeItens = []
 function adicionarNovaTarefa(){
 
     if (input.value.trim() === '') {
-        alert('Você não pode inserir uma tarefa vazia. Por favor, insira uma tarefa válida.');
+        alert('Você não pode inserir uma caixa vazia. Por favor, insira uma tarefa válida.');
         return; // Encerra a função se o campo estiver vazio
     }
     minhaListaDeItens.push({
